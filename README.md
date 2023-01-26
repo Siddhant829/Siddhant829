@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello! I am Siddhant. I'm an ECE undergrad pursuing my B.Tech from the Jaypee Institute Of Information Technology,<br>situated in Noida, Uttar Pradesh. I am currently in the final (4th) year of my studies.<br>I have been developing websites for over 3 years now. I'm a self-taught Full-Stack Developer. I have full experience in<br>HTML Css and Js. The tech stack I'm currently using is React and NEXTjs for the front end and Ruby on Rails for the<br>backend. I also have knowledge in several programming languages. I am a person who loves problem solving and believe<br>in team work.
 
+<img align="right" alt="coding" width="400" src="https://user-
+images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.giff"> 3
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siddhant.singh.921677) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhantsiingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-singh-816759195) 
