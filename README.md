@@ -4,7 +4,7 @@
   
 </div>
 <br>
-<div>
+<div align="center">
 Glad to see you here!
 </div>
 
