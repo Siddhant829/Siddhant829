@@ -1,3 +1,25 @@
+div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+</div>
+<br>
+<div>
+Glad to see you here!
+</div>
+
+
+
+
 # 💫 About Me:
 Hello! I am Siddhant. I'm an ECE undergrad pursuing my B.Tech from the Jaypee Institute Of Information Technology,<br>situated in Noida, Uttar Pradesh. I am currently in the final (4th) year of my studies.<br>I have been developing websites for over 3 years now. I'm a self-taught Full-Stack Developer. I have full experience in<br>HTML Css and Js. The tech stack I'm currently using is React and NEXTjs for the front end and Ruby on Rails for the<br>backend. I also have knowledge in several programming languages. I am a person who loves problem solving and believe<br>in team work.
 
